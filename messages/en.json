@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "cashSolutions": "Cash Solutions",
+    "adm": "ADM",
+    "import": "Import Substitution",
+    "services": "Services",
+    "development": "Software Development",
+    "consulting": "Finbridge Consulting",
+    "about": "About",
+    "clients": "Clients",
+    "partners": "Partners",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "Financial Bridges",
+    "subtitle": "From Present to Future",
+    "description": "Modern solutions for banks and financial organizations",
+    "cta": "Learn More"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "cashTitle": "Cash Solutions",
+    "cashDesc": "Modern cash operations automation systems to increase efficiency",
+    "admTitle": "ADM Solutions",
+    "admDesc": "Advanced automatic management technologies for your business",
+    "consultingTitle": "Consulting",
+    "consultingDesc": "Professional consulting services in financial technology"
+  },
+  "services": {
+    "title": "Services",
+    "devTitle": "Software Development",
+    "devDesc": "Custom software development tailored to your needs",
+    "consultTitle": "Consulting",
+    "consultDesc": "Expert support at all stages of solution implementation"
+  },
+  "import": {
+    "title": "Import Substitution",
+    "description": "We offer reliable domestic solutions to replace imported systems"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Finbridge is a leader in financial technology, providing innovative solutions for banks and financial organizations"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Submit"
+    }
+  },
+  "footer": {
+    "tagline": "Financial Bridges. From Present to Future",
+    "quickLinks": "Quick Links",
+    "rights": "All rights reserved"
+  }
+}

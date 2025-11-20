@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "solutions": "Yechimlar",
+    "cashSolutions": "Kassa yechimlari",
+    "adm": "ADM",
+    "import": "Import o'rnini bosish",
+    "services": "Xizmatlar",
+    "development": "Dasturiy ta'minot ishlab chiqish",
+    "consulting": "Finbridge konsalting",
+    "about": "Kompaniya haqida",
+    "clients": "Mijozlar",
+    "partners": "Hamkorlar",
+    "contacts": "Aloqa"
+  },
+  "hero": {
+    "title": "Moliyaviy ko'priklar",
+    "subtitle": "Hozirgi zamонdan kelajakka",
+    "description": "Banklar va moliya tashkilotlari uchun zamonaviy yechimlar",
+    "cta": "Batafsil ma'lumot"
+  },
+  "solutions": {
+    "title": "Bizning yechimlarimiz",
+    "cashTitle": "Kassa yechimlari",
+    "cashDesc": "Samaradorlikni oshirish uchun kassa operatsiyalarini avtomatlashtirish tizimlari",
+    "admTitle": "ADM yechimlari",
+    "admDesc": "Biznesingiz uchun avtomatik boshqaruvning ilg'or texnologiyalari",
+    "consultingTitle": "Konsalting",
+    "consultingDesc": "Moliyaviy texnologiyalar sohasida professional konsalting xizmatlari"
+  },
+  "services": {
+    "title": "Xizmatlar",
+    "devTitle": "Dasturiy ta'minot ishlab chiqish",
+    "devDesc": "Sizning vazifalaringiz uchun individual dasturiy ta'minot ishlab chiqish",
+    "consultTitle": "Konsalting",
+    "consultDesc": "Yechimlarni joriy etishning barcha bosqichlarida ekspert yordami"
+  },
+  "import": {
+    "title": "Import o'rnini bosish",
+    "description": "Biz import tizimlari o'rniga ishonchli mahalliy yechimlarni taklif qilamiz"
+  },
+  "about": {
+    "title": "Kompaniya haqida",
+    "description": "Finbridge — banklar va moliya tashkilotlari uchun innovatsion yechimlarni taqdim etuvchi moliyaviy texnologiyalar sohasidagi yetakchi"
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "address": "Manzil",
+    "phone": "Telefon",
+    "email": "Email",
+    "form": {
+      "name": "Ism",
+      "email": "Email",
+      "message": "Xabar",
+      "submit": "Yuborish"
+    }
+  },
+  "footer": {
+    "tagline": "Moliyaviy ko'priklar. Hozirgi zamondan kelajakka",
+    "quickLinks": "Tezkor havolalar",
+    "rights": "Barcha huquqlar himoyalangan"
+  }
+}
